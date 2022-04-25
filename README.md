@@ -9,7 +9,7 @@ CashHook on Autocode is made to be simple, you can follow the flow to add the co
 
 ## Does it cost to use CashHook?
 
-CashHook is free and open source, meaning there are no fees to use CashHook, however we would really appreciate any donations to our [Ko-Fi page](https://ko-fi.com/cashhook)!
+CashHook is free and open source, meaning there are no fees to use CashHook, however we would really appreciate any donations to our [donation page](https://ko-fi.com/cashhook)!
 
 ## How do I get my CashHook link in Autocode?
 
